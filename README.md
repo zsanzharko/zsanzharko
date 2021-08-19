@@ -2,6 +2,11 @@
 
 
 - 🌱 I’m currently learning C++ and ML.
+- 🔭               working on Portfolio
+- 🎇 Design in Adobe XD or Figma
+- 📫 How to reach me: my location Almaty city
+
+
 
 <!--
 **zsanzharko/zsanzharko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
