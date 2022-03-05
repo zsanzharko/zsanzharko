@@ -1,4 +1,9 @@
-### Hi there 👋
+# Welcome
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsanzharko&theme=algolia&count_private=true)](https://github.com/zsanzharko/github-readme-stats)
+
+
+![Programmer](https://thumbs.gfycat.com/KnobbyJoyfulDeermouse-size_restricted.gif)
 
 
 - 🌱 I’m currently learning C++ and ML.
