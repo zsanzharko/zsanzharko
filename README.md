@@ -31,7 +31,7 @@
 <!-- </p> -->
 
 
-![Programmer](https://thumbs.gfycat.com/KnobbyJoyfulDeermouse-size_restricted.gif)
+<!-- ![Programmer](https://thumbs.gfycat.com/KnobbyJoyfulDeermouse-size_restricted.gif) -->
 
 
 <!--
