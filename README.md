@@ -1,6 +1,6 @@
 # Welcome
 
-
+- 📖 Using stacks: Java (Spring(Boot, Web, Data)), Python, Dart, C++
 - 🌱 I’m currently learning C++ and ML.
 - 🔭               working on Portfolio
 - 🎇 Design in Adobe XD or Figma
