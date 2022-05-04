@@ -1,7 +1,7 @@
 # Welcome
 
 - 📖 Using stacks: Java (Spring(Boot, Web, Data)), Python, Dart, C++
-- 🌱 I’m currently learning C++ and ML.
+- 🌱 I'm currently learning meaning of life
 - 🔭               working on Portfolio
 - 🎇 Design in Adobe XD or Figma
 - 📫 How to reach me: my location Almaty city
