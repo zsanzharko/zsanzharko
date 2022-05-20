@@ -12,14 +12,14 @@
       <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=zsanzharko&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=algolia&icon_color=5194f0&bg_color=0d1117" /></td>
       <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsanzharko&hide=html&layout=compact&hide_border=true&hide_title=true&theme=algolia&icon_color=5194f0&bg_color=0d1117" />
   </tr>
-</table>
+<!-- </table>
   <table align="center">
     <tr>
       <td> 
         <img width="550px" src="https://github-readme-stats.vercel.app/api/wakatime?username=rsanzharko">
      </td>
     </tr>
-  </table>
+  </table> -->
 </p>
 
 <br />
